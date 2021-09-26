@@ -28,4 +28,4 @@ NOTE: This repo is a clone of https://github.com/miguelgrinberg/flask
 ![Activity4_P4_Screenshot](./ActivityPictures/Activity4_Part2_3.png)
 
 ## Activity 4 Part 5:
-![Activity4_P5_Screenshot](./ActivityPictures/Activity4_Part2_4.png)
+![Activity4_P5_Screenshot](./ActivityPictures/Activity4_part2_4.png)
