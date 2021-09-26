@@ -38,3 +38,5 @@ def user(name):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#Note: Used https://stackoverflow.com/questions/25324113/email-validation-from-wtform-using-flask to help get the email stuff for part 4
